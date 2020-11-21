@@ -14,10 +14,10 @@
 
   
  
-        <div class="back" style=" background-image: url('/ashweb20-team-team-e/images/laptopp.jpg');height: 100%;  background-position: center;background-repeat: no-repeat;background-size: cover;">
+        <div class="back" style=" background-image: url('/images/laptopp.jpg');height: 100%;  background-position: center;background-repeat: no-repeat;background-size: cover;">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <a class="navbar-brand" href="#">
-                <img src="images/KwabenyaSHS.png" width="30" height="30" class="d-inline-block align-top" alt="">
+                <img src="/images/KwabenyaSHS.png" width="30" height="30" class="d-inline-block align-top" alt="">
                 KAPS
               </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
