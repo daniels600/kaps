@@ -50,8 +50,8 @@
                   <h1 style="color: white;" class ="h1-responsive font-weight-bold mt-sm-5">WELCOME TO THE KWABENYA SHS APPLICATION SYSTEM </h1>
                   <hr style="background-color: white;" class="hr-light">
                   <h6 style="color: white;"class="mb-4">CHOOSE ONE OF THE OPTIONS TO PROGRESS</h6>
-                  <button type="button" class="btn btn-light btn-lg" onclick="location.href='/ashweb20-team-team-e/admin_log_in.php'">ADMINISTRATOR</button>
-                    <button type="button" class="btn btn-light btn-lg" onclick="location.href='/ashweb20-team-team-e/login.php'">STUDENT</button>
+                  <button type="button" class="btn btn-light btn-lg" onclick="location.href='admin_log_in.php'">ADMINISTRATOR</button>
+                    <button type="button" class="btn btn-light btn-lg" onclick="location.href='login.php'">STUDENT</button>
                 </div>
                 <!--Grid column-->
                 <!--Grid column-->
